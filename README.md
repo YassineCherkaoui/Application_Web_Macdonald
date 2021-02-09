@@ -67,11 +67,16 @@ Chaque commande passée doit être enregistrée dans le system via un fichier te
 
 ## Capture d'écran de l'application
 
-![]()
+![Home](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/ScreenShot/Home.png)
+![HomeAr](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/ScreenShot/HomeAr.png)
+![Menu](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/ScreenShot/Menu.png)
+![Sous_Category](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/ScreenShot/Sous_Category.png)
+![Commande](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/ScreenShot/Commande.png)
+
 
 ## Capture d'écran de Trello
 
-![]()
+![Trello](https://github.com/YassineCherkaoui/Application_Web_Macdonald/blob/main/Trello/Trello.jpg)
 
 ## Diagramme
 
@@ -100,31 +105,31 @@ Pour Exécuter ce Projet, vous devez suivre ces étapes :
 Étape 2: Extraire le fichier.
 Étape 3: Ouvrez le dossier avec Nimporte quel IDE (VScode / notepad .....)
 Étape 4: installez node-module avec cette commande << npm install --save >>.
-'npm install nodemailer --save'
-'npm install handlebars --save'
 'npm install fs --save'
+'npm install mongose --save'
+'npm install body-parser --save'
 ```
 
 Maintenant, les étapes suivantes comment connecter la base de données
 
 ```
 
-Étape 5: installez Apache (Xampp / wamp).
-Étape 6: Ouvrez un navigateur et accédez à l'URL "http://localhost/phpmyadmin/".
-Étape 8: Créez une base de données nommant "MacdonaldDB" puis cliquez sur l'onglet d'importation
-Étape 9: Cliquez sur parcourir le fichier et sélectionnez le fichier "MacdonaldDB.sql qui se trouve dans le dossier
+Étape 5: installez MongoDBCompass .
+Étape 6: Ouvrez MongoDBCompass.
+Étape 8: Clickez Connecter.
+Étape 9: Importer files /Database
 Étape 10: Cliquez sur aller.
 
 ```
 
 ```
 Étape 11: Ouvrez le Terminal et appuyez sur npm start
+Étape 12: Ouvrez Index.html
 
     ## Enjoy
 
 ```
 
-start app via https://localhost:3000/
 
 ## Author
 
