@@ -14,7 +14,6 @@ axios.get('http://localhost:8080/categories')
         <a class="nav-link" href="sousCategory.html?id=${element._id}">${element.nom}</a>
       </li> 
         
-        
         `
         
     });
@@ -45,15 +44,6 @@ axios.get('http://localhost:8080/sousCategory')
 
       
     }
-
-   
-
-
-    
-
-    
-  
-   
     
 }).catch(function (err) {
     console.log(err);

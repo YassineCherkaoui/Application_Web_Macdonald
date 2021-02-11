@@ -8,7 +8,8 @@
   "codePromo": "3030",
   "sousCategory": {
     "$oid": "601fec4b2eae6906444164eb"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "602000fcb9e6923440357d51"
@@ -19,7 +20,8 @@
   "codePromo": "3030",
   "sousCategory": {
     "$oid": "601fec422eae6906444164ea"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "60200115b9e6923440357d52"
@@ -30,7 +32,8 @@
   "codePromo": "3030",
   "sousCategory": {
     "$oid": "601fec4b2eae6906444164eb"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "60200129b9e6923440357d53"
@@ -41,7 +44,8 @@
   "codePromo": "3030",
   "sousCategory": {
     "$oid": "601fec4b2eae6906444164eb"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "6021d2e9b61218639c5ebd06"
@@ -52,7 +56,8 @@
   "codePromo": "B123",
   "sousCategory": {
     "$oid": "6021d2ccb61218639c5ebd05"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "6021d3b2b61218639c5ebd07"
@@ -63,7 +68,8 @@
   "codePromo": "B123",
   "sousCategory": {
     "$oid": "601fec422eae6906444164ea"
-  }
+  },
+  "picname": "burger1"
 },{
   "_id": {
     "$oid": "6021d407b61218639c5ebd08"
@@ -74,5 +80,6 @@
   "codePromo": "B123",
   "sousCategory": {
     "$oid": "601febdb2eae6906444164e4"
-  }
+  },
+  "picname": "burger1"
 }]
