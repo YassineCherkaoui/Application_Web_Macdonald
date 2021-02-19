@@ -4,7 +4,7 @@ let sctgContinner = document.getElementById('sctgContinner');
 
 // get category from db 
 
-axios.get('http://localhost:8080/category')
+axios.get('http://localhost:8080/categories')
     .then(function(response) {
 
         response.data.forEach(element => {

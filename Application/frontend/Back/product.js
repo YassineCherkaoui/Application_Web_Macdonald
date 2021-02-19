@@ -23,7 +23,7 @@ let category_menu = document.getElementById('menu-accordeon');
 
 // get category from db 
 
-axios.get('http://localhost:8080/category')
+axios.get('http://localhost:8080/categories')
     .then(function(response) {
 
         response.data.forEach(element => {
@@ -256,7 +256,7 @@ class UI {
 class Products {
     async getProducts() {
         try {
-            const result = await fetch(`http://localhost:8080/product/${sousCtgId}`);
+            const result = await fetch(`http://localhost:8080/products/${sousCtgId}`);
             const products = await result.json();
             return products;
         } catch (err) {
