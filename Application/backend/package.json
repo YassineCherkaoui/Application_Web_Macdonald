@@ -15,6 +15,6 @@
   "scripts": {
     "start": "nodemon app.js"
   },
-  "author": "Oubouhia mohamed",
+  "author": "Yassine Cherkaoui",
   "license": "ISC"
 }
